@@ -1,0 +1,42 @@
+ANSWER 1:   All are values no one is making any kind of expression.
+* =         multiplication operator
+'hello' =   string
++ =         addition operator
+87.8 =      float value
+-  =        subtract operator
+/ =         divide operator
+6 =         integer operator  
+
+ANSWER 2: 
+String := string can be defined as array or group of character.
+variable:= variable is a name in which we assign value to it and it is used to store the data in memory.
+
+ANSWER 3:
+ Different types of dtaa
+1. Integer := integer contain numeric value like  2,3,4 .
+2. Float := float contain numeric value with decimal like 2.3,13.56 
+3. String := string is the group of character like 'sourabh'.
+
+ANSWER 4:
+Expression is a single line of code which make it own sense like a=10;
+the purpose of expression is that they all get combine to form statement.
+
+ANSWER 5:
+Differnce between expression and statement
+spam =10
+Expresion:=expression stand for sinle line of code which store some value and has its own sense like here.
+Statement:= when all statement get combine they form statement and make sense and a unserstandable code.
+
+ANSWER 6:
+Bacon=22
+Bacon=Bacon+1
+it will print 23
+
+ANSWER 7:The answer will be both
+'spam'+'spamspam'= spamspamspam
+'spam'*3 = spamspamspam
+
+ANSWER 8: eggs is valid variable because the starting letter of the variable starts with character or 
+underscore not with the digit thatswhy 100 is invalid variable.
+
+
